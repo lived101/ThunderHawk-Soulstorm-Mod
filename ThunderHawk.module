@@ -5,7 +5,7 @@ Description = ThunderHawk mod based on bugfix 1.56a
 DllName = WXPMod
 Playable = 1
 ModFolder = ThunderHawk
-ModVersion = 1.0
+ModVersion = 1.0a
 
 ;; //////////////////////////////////////////////////////////////////
 ;; List of folders to map for this MOD 
